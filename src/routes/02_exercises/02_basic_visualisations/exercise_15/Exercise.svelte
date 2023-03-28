@@ -9,7 +9,7 @@
   <svg {width} {height}>
     <g transform="translate({margin.left}, {margin.top})">
       <rect x=22.5 y=22.5 width=40 height=40 />
-      <circle cx=22.5 cy=22.5 r=10 class="translated"
+      <circle cx=22.5 cy=22.5 r=20 class="translated"
       transform="translate(40,40)"/>
     </g>
   </svg>
