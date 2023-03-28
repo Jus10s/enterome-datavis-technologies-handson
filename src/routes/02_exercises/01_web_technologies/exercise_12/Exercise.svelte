@@ -4,7 +4,7 @@
 
 <div>
 	<button class="btn btn-primary" on:click={() => (clicked = true)}>
-		click here
+		Click here!
 	</button>
 	<!--  -->
 </div>
